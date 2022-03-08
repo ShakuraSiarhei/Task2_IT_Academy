@@ -19,7 +19,7 @@ public class Task105 {
 		
 		Scanner sc = new Scanner(System.in);
 		
-		System.out.println("Введите фразу для шифрования: ");
+		System.out.println("Р’РІРµРґРёС‚Рµ С‚РµРєСЃС‚ РґР»СЏ С€РёС„СЂРѕРІР°РЅРёСЏ: ");
 		String textForEncryption = sc.nextLine();
 		
 		return textForEncryption;
@@ -74,8 +74,8 @@ public class Task105 {
 	
 	public static void showResults(String str1, String str2) {
 		
-		System.out.println("Зашифрованная фраза: " + str1);
-		System.out.println("Расшифрованная фраза: " + str2);
+		System.out.println("Р—Р°С€РёС„СЂРѕРІР°РЅРЅС‹Р№ С‚РµРєСЃС‚: " + str1);
+		System.out.println("РСЃС…РѕРґРЅС‹Р№ С‚РµРєСЃС‚: " + str2);
 	
 	}
 	

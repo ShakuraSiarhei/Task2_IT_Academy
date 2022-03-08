@@ -18,7 +18,7 @@ public class Task111 {
 		
 		Scanner sc = new Scanner(System.in);
 		
-		System.out.println("Введите названия переменных в camelCase (через пробел): ");
+		System.out.println("Р’РІРµРґРёС‚Рµ СЃРїРёСЃРѕРє РїРµСЂРµРјРµРЅРЅС‹С… (С‡РµСЂРµР· РїСЂРѕР±РµР»): ");
 		String names = sc.nextLine();
 		String [] arrNames = names.split(" ");
 		
